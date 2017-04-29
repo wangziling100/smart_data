@@ -1,2 +1,2 @@
 ## Description
-##### A project for exercises
+A project for exercises
